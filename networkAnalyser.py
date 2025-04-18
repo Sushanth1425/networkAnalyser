@@ -12,8 +12,8 @@ interface = 'Wi-Fi'
 suspicious_ips = ['203.0.113.10', '192.168.1.100']  
 port_scan_threshold = 10
 icmp_threshold = 20 
-geolocation_api_key = 'f5797ab713e48f6d21dd44b8ecfebec9' 
-blacklist_api_key = '43a459c9805a6c2c514e5e8ae2224ebdcd5e3f532556a50e63bcfa48541f5e35eca73c706c2c532a' 
+geolocation_api_key = 'ur_geo_api' 
+blacklist_api_key = 'ur_api_key' 
 geo_block_countries = ['India']  
 
 port_scan_tracker = {}
